@@ -1,4 +1,4 @@
-Here I summarize some valuable resources about RL
+Here I summarize some valuable resources about RL and DL
 
 1. Valuable person to follow
 
@@ -10,3 +10,7 @@ Here I summarize some valuable resources about RL
 2. Online courses
 
 * [CS 231n](http://cs231n.stanford.edu/)
+
+3. Caffe docs
+
+* [A-step-by-step-guide-to-Caffe](http://shengshuyang.github.io/A-step-by-step-guide-to-Caffe.html)
