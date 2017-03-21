@@ -16,10 +16,13 @@ Here I summarize some valuable resources about RL and DL
 
   * [A-step-by-step-guide-to-Caffe](http://shengshuyang.github.io/A-step-by-step-guide-to-Caffe.html)  
 
-4. Rnn docs
+4. Rnn docs  
 
-  * [RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+  * [RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)  
 
-5. DRL
+5. DRL  
 
-  *[junhyukoh](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+  * [junhyukoh](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
+
+6. Distill
+  * [Distill](http://distill.pub/)
