@@ -1,0 +1,3 @@
+[submodule "awesome-rl"]
+	path = awesome-rl
+	url = https://github.com/aikorea/awesome-rl

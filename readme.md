@@ -26,3 +26,6 @@ Here I summarize some valuable resources about RL and DL
 
 6. Distill
   * [Distill](http://distill.pub/)
+
+7. Awesome-rl  
+  * [awesome-rl](https://github.com/aikorea/awesome-rl/tree/master)
