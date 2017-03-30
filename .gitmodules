@@ -4,6 +4,12 @@
 [submodule "rllab"]
 	path = rllab
 	url = https://github.com/openai/rllab.git
-[submodule "deep-reinforcement-learning-papers"]
-	path = deep-reinforcement-learning-papers
+[submodule "DRL1"]
+	path = DRL1
 	url = https://github.com/muupan/deep-reinforcement-learning-papers.git
+[submodule "DRL2"]
+	path = DRL2
+	url = https://github.com/junhyukoh/deep-reinforcement-learning-papers.git
+[submodule "DRL3"]
+	path = DRL3
+	url = https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey.git
