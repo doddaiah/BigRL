@@ -29,3 +29,9 @@ Here I summarize some valuable resources about RL and DL
 
 7. Awesome-rl  
   * [awesome-rl](https://github.com/aikorea/awesome-rl/tree/master)
+
+8. Deep Reinforcement learning  
+  * [DRL](https://github.com/muupan/deep-reinforcement-learning-papers)
+
+9. RLLAB
+  * [rllab](https://github.com/openai/rllab)

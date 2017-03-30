@@ -1,3 +1,9 @@
 [submodule "awesome-rl"]
 	path = awesome-rl
 	url = https://github.com/aikorea/awesome-rl
+[submodule "rllab"]
+	path = rllab
+	url = https://github.com/openai/rllab.git
+[submodule "deep-reinforcement-learning-papers"]
+	path = deep-reinforcement-learning-papers
+	url = https://github.com/muupan/deep-reinforcement-learning-papers.git
