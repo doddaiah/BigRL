@@ -37,3 +37,6 @@ Here I summarize some valuable resources about RL and DL
 
 9. rllab
   * [rllab](https://github.com/openai/rllab)
+  
+10. DeepDect
+  * [deepdetect](https://deepdetect.com/)
