@@ -45,3 +45,6 @@ Here I summarize some valuable resources about RL and DL
   
 11. Satinder Singh 
   * [Satinder Singh ](http://umichrl.pbworks.com/w/page/7597583/FrontPage)
+  
+12. Companies
+  * [cogitai](http://www.cogitai.com/)
