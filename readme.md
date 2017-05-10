@@ -40,3 +40,6 @@ Here I summarize some valuable resources about RL and DL
   
 10. DeepDect
   * [deepdetect](https://deepdetect.com/)
+  
+11. Satinder Singh 
+  * [Satinder Singh ](http://umichrl.pbworks.com/w/page/7597583/FrontPage)
