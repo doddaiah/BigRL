@@ -9,6 +9,7 @@ Here I summarize some valuable resources about RL and DL
   * [Deep Mind](https://deepmind.com/research/publications/)
   * [Satinder Singh](http://web.eecs.umich.edu/~baveja/)
   * [Sridhar Mahadevan](https://people.cs.umass.edu/~mahadeva/Site/Papers.html)
+  * [Benjamin Van Roy](http://web.stanford.edu/~bvr/)
 
 2. Online courses  
 
