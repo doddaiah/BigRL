@@ -7,6 +7,7 @@ Here I summarize some valuable resources about RL and DL
   * [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/#sec_pubs)  
   * [Emo Todorov](http://homes.cs.washington.edu/~todorov/papers.html)  
   * [Deep Mind](https://deepmind.com/research/publications/)
+  * [Satinder Singh](http://web.eecs.umich.edu/~baveja/)
 
 2. Online courses  
 
