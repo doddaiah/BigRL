@@ -49,3 +49,4 @@ Here I summarize some valuable resources about RL and DL
   
 12. Companies
   * [cogitai](http://www.cogitai.com/)
+  * [osaro](http://www.osaro.com/)
