@@ -53,3 +53,4 @@ Here I summarize some valuable resources about RL and DL
   
 13. Others
   * [Charles Isbell](http://www.cc.gatech.edu/classes/AY2009/cs7641_spring/)
+  * [RL repo](http://www-anw.cs.umass.edu/rlr/)
