@@ -50,3 +50,6 @@ Here I summarize some valuable resources about RL and DL
 12. Companies
   * [cogitai](http://www.cogitai.com/)
   * [osaro](http://www.osaro.com/)
+  
+13. Others
+  * [Charles Isbell](http://www.cc.gatech.edu/classes/AY2009/cs7641_spring/)
