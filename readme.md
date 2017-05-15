@@ -10,6 +10,7 @@ Here I summarize some valuable resources about RL and DL
   * [Satinder Singh](http://web.eecs.umich.edu/~baveja/)
   * [Sridhar Mahadevan](https://people.cs.umass.edu/~mahadeva/Site/Papers.html)
   * [Benjamin Van Roy](http://web.stanford.edu/~bvr/)
+  * [Peter Stone](http://www.cs.utexas.edu/~pstone/Papers/bib2html/)
 
 2. Online courses  
 
