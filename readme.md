@@ -11,7 +11,8 @@ Here I summarize some valuable resources about RL and DL
   * [Sridhar Mahadevan](https://people.cs.umass.edu/~mahadeva/Site/Papers.html)
   * [Benjamin Van Roy](http://web.stanford.edu/~bvr/)
   * [Peter Stone](http://www.cs.utexas.edu/~pstone/Papers/bib2html/)
-
+  * [Yisong Yue](http://www.yisongyue.com)
+  
 2. Online courses  
 
   * [CS 231n](http://cs231n.stanford.edu/)  
